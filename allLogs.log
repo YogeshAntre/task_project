@@ -1,0 +1,331 @@
+2024-10-08 12:11:11,925 - INFO - This is an info message
+2024-10-08 12:11:11,926 - WARNING - This is a warning message
+2024-10-08 12:11:11,926 - ERROR - This is an error message
+2024-10-08 12:12:56,412 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py changed, reloading.
+2024-10-08 12:12:57,836 - INFO - This is an info message
+2024-10-08 12:12:57,837 - WARNING - This is a warning message
+2024-10-08 12:12:57,838 - ERROR - This is an error message
+2024-10-08 12:14:26,419 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py changed, reloading.
+2024-10-08 12:14:27,904 - INFO - This is an info message
+2024-10-08 12:14:27,904 - WARNING - This is a warning message
+2024-10-08 12:14:27,905 - ERROR - This is an error message
+2024-10-08 12:15:49,732 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py changed, reloading.
+2024-10-08 12:15:51,150 - INFO - This is an info message
+2024-10-08 12:15:51,151 - WARNING - This is a warning message
+2024-10-08 12:15:51,152 - ERROR - This is an error message
+2024-10-08 12:18:08,953 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py changed, reloading.
+2024-10-08 12:18:10,367 - INFO - This is an info message
+2024-10-08 12:18:10,368 - WARNING - This is a warning message
+2024-10-08 12:18:10,368 - ERROR - This is an error message
+2024-10-08 12:18:40,538 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py changed, reloading.
+2024-10-08 12:18:41,969 - INFO - This is an info message
+2024-10-08 12:18:41,970 - WARNING - This is a warning message
+2024-10-08 12:18:41,970 - ERROR - This is an error message
+2024-10-08 12:18:43,722 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py changed, reloading.
+2024-10-08 12:18:45,110 - INFO - This is an info message
+2024-10-08 12:18:45,111 - WARNING - This is a warning message
+2024-10-08 12:18:45,111 - ERROR - This is an error message
+2024-10-08 12:19:03,787 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py changed, reloading.
+2024-10-08 12:19:05,208 - INFO - This is an info message
+2024-10-08 12:19:05,209 - WARNING - This is a warning message
+2024-10-08 12:19:05,209 - ERROR - This is an error message
+2024-10-08 12:19:13,910 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py changed, reloading.
+2024-10-08 12:19:15,357 - INFO - This is an info message
+2024-10-08 12:19:15,358 - WARNING - This is a warning message
+2024-10-08 12:19:15,358 - ERROR - This is an error message
+2024-10-08 12:19:54,866 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py changed, reloading.
+2024-10-08 12:19:56,393 - INFO - This is an info message
+2024-10-08 12:19:56,394 - WARNING - This is a warning message
+2024-10-08 12:19:56,395 - ERROR - This is an error message
+2024-10-08 12:20:23,944 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py changed, reloading.
+2024-10-08 12:20:25,458 - INFO - This is an info message
+2024-10-08 12:20:25,459 - WARNING - This is a warning message
+2024-10-08 12:20:25,459 - ERROR - This is an error message
+2024-10-08 12:20:45,502 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\urls.py changed, reloading.
+2024-10-08 12:20:47,055 - INFO - This is an info message
+2024-10-08 12:20:47,056 - WARNING - This is a warning message
+2024-10-08 12:20:47,057 - ERROR - This is an error message
+2024-10-08 12:20:55,640 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\urls.py changed, reloading.
+2024-10-08 12:20:57,069 - INFO - This is an info message
+2024-10-08 12:20:57,070 - WARNING - This is a warning message
+2024-10-08 12:20:57,071 - ERROR - This is an error message
+2024-10-08 12:21:36,512 - INFO - E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\urls.py changed, reloading.
+2024-10-08 12:21:37,936 - INFO - This is an info message
+2024-10-08 12:21:37,937 - WARNING - This is a warning message
+2024-10-08 12:21:37,937 - ERROR - This is an error message
+2024-10-08 12:34:45,884 - INFO - This is an info message
+2024-10-08 12:34:45,885 - WARNING - This is a warning message
+2024-10-08 12:34:45,886 - ERROR - This is an error message
+2024-10-12 09:03:29,411 - INFO - This is an info message
+2024-10-12 09:03:29,412 - WARNING - This is a warning message
+2024-10-12 09:03:29,413 - ERROR - This is an error message
+2024-10-12 09:03:30,394 - WARNING - Not Found: /v1/items/99/
+2024-10-12 09:03:32,268 - WARNING - Not Found: /v1/items/1/
+2024-10-12 09:03:33,170 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:04:18,634 - INFO - This is an info message
+2024-10-12 09:04:18,634 - WARNING - This is a warning message
+2024-10-12 09:04:18,635 - ERROR - This is an error message
+2024-10-12 09:04:19,573 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:05:58,665 - INFO - This is an info message
+2024-10-12 09:05:58,666 - WARNING - This is a warning message
+2024-10-12 09:05:58,666 - ERROR - This is an error message
+2024-10-12 09:05:59,624 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:06:47,134 - INFO - This is an info message
+2024-10-12 09:06:47,135 - WARNING - This is a warning message
+2024-10-12 09:06:47,135 - ERROR - This is an error message
+2024-10-12 09:06:48,115 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:07:02,518 - INFO - This is an info message
+2024-10-12 09:07:02,519 - WARNING - This is a warning message
+2024-10-12 09:07:02,520 - ERROR - This is an error message
+2024-10-12 09:07:03,484 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:10:02,209 - INFO - This is an info message
+2024-10-12 09:10:02,210 - WARNING - This is a warning message
+2024-10-12 09:10:02,210 - ERROR - This is an error message
+2024-10-12 09:10:19,747 - INFO - This is an info message
+2024-10-12 09:10:19,748 - WARNING - This is a warning message
+2024-10-12 09:10:19,749 - ERROR - This is an error message
+2024-10-12 09:10:19,781 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:11:09,123 - INFO - This is an info message
+2024-10-12 09:11:09,123 - WARNING - This is a warning message
+2024-10-12 09:11:09,124 - ERROR - This is an error message
+2024-10-12 09:11:09,152 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:11:20,339 - INFO - This is an info message
+2024-10-12 09:11:20,340 - WARNING - This is a warning message
+2024-10-12 09:11:20,340 - ERROR - This is an error message
+2024-10-12 09:11:20,369 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:11:58,930 - INFO - This is an info message
+2024-10-12 09:11:58,931 - WARNING - This is a warning message
+2024-10-12 09:11:58,931 - ERROR - This is an error message
+2024-10-12 09:11:58,959 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:12:12,391 - INFO - This is an info message
+2024-10-12 09:12:12,392 - WARNING - This is a warning message
+2024-10-12 09:12:12,392 - ERROR - This is an error message
+2024-10-12 09:12:12,420 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:13:00,434 - INFO - This is an info message
+2024-10-12 09:13:00,434 - WARNING - This is a warning message
+2024-10-12 09:13:00,435 - ERROR - This is an error message
+2024-10-12 09:13:00,465 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:13:24,853 - INFO - This is an info message
+2024-10-12 09:13:24,853 - WARNING - This is a warning message
+2024-10-12 09:13:24,853 - ERROR - This is an error message
+2024-10-12 09:13:24,884 - WARNING - Method Not Allowed: /v1/register/
+2024-10-12 09:13:48,796 - INFO - This is an info message
+2024-10-12 09:13:48,797 - WARNING - This is a warning message
+2024-10-12 09:13:48,798 - ERROR - This is an error message
+2024-10-12 09:13:48,827 - ERROR - exception found in USER API Views  'username'
+Traceback (most recent call last):
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 50, in post
+    if User.objects.filter(username=data['username']).exists():
+                                    ~~~~^^^^^^^^^^^^
+KeyError: 'username'
+2024-10-12 09:13:48,861 - ERROR - Internal Server Error: /v1/register/
+Traceback (most recent call last):
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 66, in post
+    raise e
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 50, in post
+    if User.objects.filter(username=data['username']).exists():
+                                    ~~~~^^^^^^^^^^^^
+KeyError: 'username'
+2024-10-12 09:15:45,594 - INFO - This is an info message
+2024-10-12 09:15:45,594 - WARNING - This is a warning message
+2024-10-12 09:15:45,595 - ERROR - This is an error message
+2024-10-12 09:15:45,621 - ERROR - exception found in USER API Views  'username'
+Traceback (most recent call last):
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 50, in post
+    if User.objects.filter(username=data['username']).exists():
+                                    ~~~~^^^^^^^^^^^^
+KeyError: 'username'
+2024-10-12 09:15:45,632 - ERROR - Internal Server Error: /v1/register/
+Traceback (most recent call last):
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 66, in post
+    raise e
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 50, in post
+    if User.objects.filter(username=data['username']).exists():
+                                    ~~~~^^^^^^^^^^^^
+KeyError: 'username'
+2024-10-12 09:16:31,403 - INFO - This is an info message
+2024-10-12 09:16:31,404 - WARNING - This is a warning message
+2024-10-12 09:16:31,404 - ERROR - This is an error message
+2024-10-12 09:16:31,435 - ERROR - exception found in USER API Views  'username'
+Traceback (most recent call last):
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 50, in post
+    if User.objects.filter(username=data['username']).exists():
+                                    ~~~~^^^^^^^^^^^^
+KeyError: 'username'
+2024-10-12 09:16:31,446 - ERROR - Internal Server Error: /v1/register/
+Traceback (most recent call last):
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 66, in post
+    raise e
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 50, in post
+    if User.objects.filter(username=data['username']).exists():
+                                    ~~~~^^^^^^^^^^^^
+KeyError: 'username'
+2024-10-12 09:17:48,079 - INFO - This is an info message
+2024-10-12 09:17:48,079 - WARNING - This is a warning message
+2024-10-12 09:17:48,080 - ERROR - This is an error message
+2024-10-12 09:17:48,109 - ERROR - exception found in USER API Views  'username'
+Traceback (most recent call last):
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 50, in post
+    if User.objects.filter(username=data['username']).exists():
+                                    ~~~~^^^^^^^^^^^^
+KeyError: 'username'
+2024-10-12 09:17:48,119 - ERROR - Internal Server Error: /v1/register/
+Traceback (most recent call last):
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 66, in post
+    raise e
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 50, in post
+    if User.objects.filter(username=data['username']).exists():
+                                    ~~~~^^^^^^^^^^^^
+KeyError: 'username'
+2024-10-12 09:18:32,334 - INFO - This is an info message
+2024-10-12 09:18:32,335 - WARNING - This is a warning message
+2024-10-12 09:18:32,336 - ERROR - This is an error message
+2024-10-12 09:18:33,239 - ERROR - exception found in USER API Views  'username'
+Traceback (most recent call last):
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 50, in post
+    if User.objects.filter(username=data['username']).exists():
+                                    ~~~~^^^^^^^^^^^^
+KeyError: 'username'
+2024-10-12 09:18:33,246 - ERROR - Internal Server Error: /v1/register/
+Traceback (most recent call last):
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\Yogesh Task\blooprint_assigment_task\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 66, in post
+    raise e
+  File "E:\Yogesh Task\blooprint_assigment_task\bloorprint_project\testapp\views.py", line 50, in post
+    if User.objects.filter(username=data['username']).exists():
+                                    ~~~~^^^^^^^^^^^^
+KeyError: 'username'
+2024-10-12 09:19:27,492 - INFO - This is an info message
+2024-10-12 09:19:27,493 - WARNING - This is a warning message
+2024-10-12 09:19:27,493 - ERROR - This is an error message
+2024-10-12 09:19:28,420 - WARNING - Not Found: /v1/items/99/
+2024-10-12 09:19:30,165 - WARNING - Not Found: /v1/items/1/
+2024-10-12 09:22:16,851 - INFO - This is an info message
+2024-10-12 09:22:16,852 - WARNING - This is a warning message
+2024-10-12 09:22:16,852 - ERROR - This is an error message
+2024-10-12 09:22:17,769 - WARNING - Not Found: /v1/items/99/
+2024-10-12 09:22:19,556 - WARNING - Not Found: /v1/items/1/
+2024-10-12 09:29:14,539 - INFO - This is an info message
+2024-10-12 09:29:14,540 - WARNING - This is a warning message
+2024-10-12 09:29:14,540 - ERROR - This is an error message
+2024-10-12 09:29:15,438 - WARNING - Not Found: /v1/items/99/
+2024-10-12 09:29:17,124 - WARNING - Not Found: /v1/items/1/
+2024-10-12 09:31:13,027 - INFO - This is an info message
+2024-10-12 09:31:13,027 - WARNING - This is a warning message
+2024-10-12 09:31:13,028 - ERROR - This is an error message
+2024-10-12 09:31:13,961 - WARNING - Not Found: /v1/items/99/
+2024-10-12 09:31:15,702 - WARNING - Not Found: /v1/items/1/
+2024-10-12 09:36:39,528 - INFO - This is an info message
+2024-10-12 09:36:39,529 - WARNING - This is a warning message
+2024-10-12 09:36:39,529 - ERROR - This is an error message
+2024-10-12 09:36:40,466 - WARNING - Not Found: /v1/items/99/
+2024-10-12 09:36:42,234 - WARNING - Not Found: /v1/items/1/

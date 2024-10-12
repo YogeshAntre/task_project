@@ -1,0 +1,9 @@
+/myenv
+__pycache__/
+*.pyc
+
+migrations/
+*/migrations/
+.venv
+*.venv
+*venv
